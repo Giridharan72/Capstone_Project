@@ -1,6 +1,6 @@
 # GK Inventory  Billing App
 
-[Visit our website]([https://www.example.com](https://capstone-project-puce-rho.vercel.app/)
+[Visit our website]([Gk inventory billing app](https://capstone-project-puce-rho.vercel.app/)
 
 # Video
 [Visit our website]([Recording](https://drive.google.com/file/d/1c38ohafvODFmz2qFyC-2VlPAUfriJXjK/view?usp=sharing)
