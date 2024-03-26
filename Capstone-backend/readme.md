@@ -6,7 +6,7 @@ This document provides essential information about the Hall Booking API project,
 
 ## Render URL
 
-- **URL:**  [http://localhost:5012]([https://giridharan-5.onrender.com](https://capstone-project-fsd.onrender.com))/
+- **URL:**  [https://giridharan-5.onrender.com](https://capstone-project-fsd.onrender.com)/
 
 
 
