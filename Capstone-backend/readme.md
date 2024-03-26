@@ -10,21 +10,23 @@ This document provides essential information about the Hall Booking API project,
 
 
 
-Method: LOGIN
-URL: [http://localhost:5012](https://giridharan-5.onrender.com)/login
+Method: customer
+
+URL:  [http://localhost:5012](https://capstone-project-fsd.onrender.com)/api/customers
+
+Method:Product
+URL:  [http://localhost:5012](https://capstone-project-fsd.onrender.com)/api/products
+
+Method:Billing
+
+URL:  [http://localhost:5012](https://capstone-project-fsd.onrender.com)/api/billing
+
+Method:Cart
+
+URL:  [http://localhost:5012](https://capstone-project-fsd.onrender.com)/api/cart
 
 
 
-Method: Registr
-URL: [http://localhost:5012](https://giridharan-5.onrender.com)/register
 
-Method: forgotPassword
-URL: [http://localhost:5012](https://giridharan-5.onrender.com)/forgotPassword
-
-Method: resetPassword
-URL: [http://localhost:5012](https://giridharan-5.onrender.com)/resetPassword
-
-Method: urlShortener
-URL: [http://localhost:5012](https://giridharan-5.onrender.com)/urlShortener
 
 
