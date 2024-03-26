@@ -1,6 +1,9 @@
 # GK Inventory  Billing App
 
-[Visit our website]([https://www.example.com](https://capstone-project-puce-rho.vercel.app/)
+[Visit our website]([https://www.example.com](https://capstone-project-puce-rho.vercel.app/))
+
+# Video
+[Visit our website]((https://drive.google.com/file/d/1c38ohafvODFmz2qFyC-2VlPAUfriJXjK/view?usp=sharing)))
 
 # Products:
 i)Able to create,edit,delete,update the products that to be displayed in home page
