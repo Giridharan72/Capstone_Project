@@ -1,5 +1,24 @@
 # GK Inventory  Billing App
 
+[Visit our website]([https://www.example.com](https://capstone-project-puce-rho.vercel.app/)
+
+# Products:
+i)Able to create,edit,delete,update the products that to be displayed in home page
+
+# Customer:
+i)Able to create,edit,delete,update the customers that to be displayed while printing the bill.
+
+# Home
+i)In home page the list of products are displayed and able to add it the cart
+
+# Cart
+i)In cart able to see the list of product that you added
+ii)In top there is a input where able to fetch all the data of users
+iii)Also there is option for discount
+iv)Print the invoice
+
+
+
 ```
 shopping-cart-app/
   |- public/
