@@ -9,7 +9,7 @@ This document provides essential information about the Backend billing API proje
 - **URL:**  [https://giridharan-5.onrender.com](https://capstone-project-fsd.onrender.com)/
 
 ## Structure
-
+```
 billing-app/
   |- models/
      |- bill.js
@@ -28,7 +28,7 @@ billing-app/
   |- app.js
   |- package.json
 
-
+```
 Method: customer
 
 URL:  [http://localhost:5012](https://capstone-project-fsd.onrender.com)/api/customers
