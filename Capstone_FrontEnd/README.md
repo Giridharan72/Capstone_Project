@@ -1,8 +1,39 @@
-# React + Vite
+# GK Inventory  Billing App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+shopping-cart-app/
+  |- public/
+  |- src/
+     |- components/
+        |- Customer/
+           |- CustomerDelete.js
+           |- CustomerEdit.js
+           |- CustomerForm.js
+           |- CustomerList.js
+        |- Product/
+           |- ProductDelete.js
+           |- ProductEdit.js
+           |- ProductForm.js
+           |- ProductList.js
+        |- Login/
+           |- Forgot.js
+           |- Login.js
+           |- Register.js
+           |- Reset.js
+        |- ProductCard.js
+        |- Header.js
+        |- CartContext/
+           |- CartContext.js
+           |- CartReducer.js
+        |-Printbill.js
+        |- pages/
+        |- Home.js
+        |- CartPage.js
+        |- ProductPage.js
+     |- services/
+        |- api.js
+     |- App.js
+     |- index.js
+  |- package.json
+  |- README.md
+```
