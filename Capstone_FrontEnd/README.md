@@ -3,7 +3,7 @@
 [Visit our website]([Gk inventory billing app](https://capstone-project-puce-rho.vercel.app/)
 
 # Video
-[Visit our website]([Recording](https://drive.google.com/file/d/1c38ohafvODFmz2qFyC-2VlPAUfriJXjK/view?usp=sharing)
+[Visit our demo]([Recording](https://drive.google.com/file/d/1c38ohafvODFmz2qFyC-2VlPAUfriJXjK/view?usp=sharing)
 
 # Products:
 i)Able to create,edit,delete,update the products that to be displayed in home page
